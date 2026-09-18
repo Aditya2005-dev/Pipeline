@@ -7,7 +7,7 @@ public class Controller {
     
     @GetMapping("/cicd")
     public String display(){
-        return "Learning CICD PigrtdgrgeterysgsgfgdgfgdgrghtrttutyhjghjhgpeLine.....dfdfdefsfdsfdfd...";
+        return "Learning CICD PigrtrghtrttutyhjghjhgpeLine.....dfdfdefsfdsfdfd...";
 
 
     }
